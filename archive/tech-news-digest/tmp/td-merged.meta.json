@@ -1,0 +1,29 @@
+{
+  "pipeline_version": "1.0.0",
+  "total_elapsed_s": 32.4,
+  "fetch_elapsed_s": 32.1,
+  "steps": [
+    {
+      "name": "RSS",
+      "status": "ok",
+      "elapsed_s": 1.3,
+      "count": 0,
+      "stderr_tail": []
+    },
+    {
+      "name": "Websites",
+      "status": "ok",
+      "elapsed_s": 32.1,
+      "count": 590,
+      "stderr_tail": []
+    }
+  ],
+  "merge": {
+    "name": "Merge",
+    "status": "ok",
+    "elapsed_s": 0.3,
+    "count": 553,
+    "stderr_tail": []
+  },
+  "output": "E:\\03-Workspace\\TrafficInfoCollectorV1.2\\archive\\tech-news-digest\\tmp\\td-merged.json"
+}

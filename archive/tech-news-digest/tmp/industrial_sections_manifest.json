@@ -1,0 +1,17 @@
+{
+  "groups": [
+    "市场动态",
+    "技术洞察",
+    "竞争格局",
+    "项目及商机"
+  ],
+  "files": {
+    "市场动态": "E:\\03-Workspace\\TrafficInfoCollectorV1.2\\archive\\tech-news-digest\\tmp\\industrial_sec_市场动态.md",
+    "技术洞察": "E:\\03-Workspace\\TrafficInfoCollectorV1.2\\archive\\tech-news-digest\\tmp\\industrial_sec_技术洞察.md",
+    "竞争格局": "E:\\03-Workspace\\TrafficInfoCollectorV1.2\\archive\\tech-news-digest\\tmp\\industrial_sec_竞争格局.md",
+    "项目及商机": "E:\\03-Workspace\\TrafficInfoCollectorV1.2\\archive\\tech-news-digest\\tmp\\industrial_sec_项目及商机.md"
+  },
+  "total_matched": 256,
+  "date": "2026-06-05",
+  "version": "3.14.0"
+}

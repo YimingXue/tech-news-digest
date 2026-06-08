@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(set PYTHONIOENCODING=utf-8)",
+      "WebSearch",
+      "Bash(SKILL_HOURS=168 python:*)",
+      "Bash(curl -s -L --max-time 15 -A \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/120.0.0.0 Safari/537.36\" \"https://mp.sohu.com/profile?xpt=aXRzMTE0QHNvaHUuY29t&spm=smpc.content.author.1.1779416495006eLG4J3k\")",
+      "Bash(curl -s -L --max-time 15 -A \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/120.0.0.0 Safari/537.36\" \"https://www.sohu.com/\")",
+      "Bash(curl -s -L --max-time 20 -A \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/120.0.0.0 Safari/537.36\" \"https://www.sohu.com/\")",
+      "Read(//tmp/**)",
+      "Bash(curl -s -L --max-time 15 -A \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/120.0.0.0 Safari/537.36\" \"https://search.sohu.com/search?q=%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BA%A4%E9%80%9A%E6%8A%93%E6%8B%8D%E8%AE%BE%E5%A4%87&spm=smpc.channel_248.block1_78_3Erua8_1_nav.1\")",
+      "Bash(curl -s -L --max-time 15 -A \"Mozilla/5.0 \\(iPhone; CPU iPhone OS 14_0 like Mac OS X\\) AppleWebKit/605.1.15\" \"https://m.sohu.com/search?q=%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BA%A4%E9%80%9A%E6%8A%93%E6%8B%8D\")",
+      "Bash(curl -s -L --max-time 15 -A \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36\" \"https://www.sohu.com/a/1025961282_429139\")"
+    ]
+  }
+}
